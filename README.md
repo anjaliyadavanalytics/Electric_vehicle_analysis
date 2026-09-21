@@ -57,7 +57,8 @@ This Power BI dashboard analyzes the electric vehicle market to understand EV sa
 ## Dashboard
 
 The Power BI dashboard provides an interactive view of the electric vehicle market, including KPIs, trends, manufacturer analysis, vehicle types, and regional insights.
-![Uploading electric-vehicle.jpg…]()
+<img width="1672" height="941" alt="electric-vehicle" src="https://github.com/user-attachments/assets/174c3b5d-91ae-4633-ad61-1e408e647455" />
+
 
 
 ---
